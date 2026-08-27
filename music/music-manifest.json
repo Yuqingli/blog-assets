@@ -1,0 +1,204 @@
+{
+  "tracks": [
+    {
+      "file": "bed_neutral-tech_1a_b7bf64d9.mp3",
+      "mood": "neutral-tech",
+      "duration": 136.7,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -12.7
+    },
+    {
+      "file": "bed_neutral-tech_1b_427d0708.mp3",
+      "mood": "neutral-tech",
+      "duration": 143.9,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.4
+    },
+    {
+      "file": "bed_neutral-tech_2a_5db3c11e.mp3",
+      "mood": "neutral-tech",
+      "duration": 144.7,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.6
+    },
+    {
+      "file": "bed_neutral-tech_2b_020485c8.mp3",
+      "mood": "neutral-tech",
+      "duration": 129.2,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -12.8
+    },
+    {
+      "file": "bed_somber_1a_7a17d15e.mp3",
+      "mood": "somber",
+      "duration": 148.7,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -14.1
+    },
+    {
+      "file": "bed_somber_1a_848fe930.mp3",
+      "mood": "somber",
+      "duration": 164.0,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -14.7
+    },
+    {
+      "file": "bed_somber_1b_8af43684.mp3",
+      "mood": "somber",
+      "duration": 157.0,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.4
+    },
+    {
+      "file": "bed_somber_1b_b7453eb6.mp3",
+      "mood": "somber",
+      "duration": 157.9,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -14.1
+    },
+    {
+      "file": "bed_tense_1a_944375f5.mp3",
+      "mood": "tense",
+      "duration": 139.0,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.5
+    },
+    {
+      "file": "bed_tense_1b_6880560b.mp3",
+      "mood": "tense",
+      "duration": 138.8,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.0
+    },
+    {
+      "file": "bed_tense_2a_b6b41142.mp3",
+      "mood": "tense",
+      "duration": 153.1,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.7
+    },
+    {
+      "file": "bed_tense_2b_d3edaebf.mp3",
+      "mood": "tense",
+      "duration": 162.5,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.9
+    },
+    {
+      "file": "bed_upbeat_1a_52b9c5ac.mp3",
+      "mood": "upbeat",
+      "duration": 99.6,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.4
+    },
+    {
+      "file": "bed_upbeat_1b_bae5a21c.mp3",
+      "mood": "upbeat",
+      "duration": 130.9,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.2
+    },
+    {
+      "file": "bed_upbeat_2a_adcf827f.mp3",
+      "mood": "upbeat",
+      "duration": 151.4,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.6
+    },
+    {
+      "file": "bed_upbeat_2b_b6fe3fd8.mp3",
+      "mood": "upbeat",
+      "duration": 139.2,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -14.1
+    },
+    {
+      "file": "bed_wonder_1a_9ba8f6f2.mp3",
+      "mood": "wonder",
+      "duration": 134.7,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.7
+    },
+    {
+      "file": "bed_wonder_1b_d38c4316.mp3",
+      "mood": "wonder",
+      "duration": 193.9,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -15.4
+    },
+    {
+      "file": "bed_wonder_2a_463784f9.mp3",
+      "mood": "wonder",
+      "duration": 62.3,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.6
+    },
+    {
+      "file": "bed_wonder_2b_a09d59bb.mp3",
+      "mood": "wonder",
+      "duration": 78.4,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.2
+    }
+  ]
+}
