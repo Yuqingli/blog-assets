@@ -161,6 +161,26 @@
       "lufs": -14.1
     },
     {
+      "file": "bed_upbeat_synthwave-night-drive_39849864.mp3",
+      "mood": "upbeat",
+      "duration": 183.4,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -14.2
+    },
+    {
+      "file": "bed_upbeat_synthwave-night-drive_7d639088.mp3",
+      "mood": "upbeat",
+      "duration": 218.7,
+      "source": "suno",
+      "licensed": true,
+      "license_basis": "suno-pro-2026-08",
+      "contentid_checked": true,
+      "lufs": -13.1
+    },
+    {
       "file": "bed_wonder_1a_9ba8f6f2.mp3",
       "mood": "wonder",
       "duration": 134.7,
